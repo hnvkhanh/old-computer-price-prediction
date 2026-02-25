@@ -30,30 +30,6 @@ This project explores how to estimate the resale price of old computers using re
   - [data/link_may_ban.csv](data/link_may_ban.csv) – Source links for desktop listings.
   - [data/links_200.txt](data/links_200.txt) – Sample list of listing URLs used during crawling.
 
-## Getting Started
-
-1. Create a Python environment (optional but recommended):
-	- `python -m venv .venv`
-	- Activate it and install dependencies below.
-
-2. Install required Python packages (adjust as needed):
-	- pandas
-	- numpy
-	- scikit-learn
-	- matplotlib
-	- seaborn
-	- jupyter / jupyterlab
-
-3. Launch Jupyter:
-	- `jupyter lab` or `jupyter notebook`
-
-4. Open the notebooks in the following general order:
-	1. `crawl_data_desktop.ipynb` and `Crawl-Data-Laptop.ipynb`
-	2. `Preprocessing.ipynb`
-	3. `EDA-Sơ-Bộ.ipynb`
-	4. `EDA-Visualization.ipynb`
-	5. `ModelTraining.ipynb`
-
 ## Notes
 
 - Folder and file names are kept as originally used during experimentation; some are in Vietnamese.
