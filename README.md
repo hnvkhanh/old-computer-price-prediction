@@ -35,7 +35,3 @@ This project explores how to estimate the resale price of old computers using re
 - Folder and file names are kept as originally used during experimentation; some are in Vietnamese.
 - If you change the crawling logic or add new sources, regenerate the intermediate CSV files before rerunning preprocessing and training.
 - For production use, consider exporting your final model (e.g., with `joblib`) and building a small API or UI around it.
-
-## License
-
-This project is for educational and experimental purposes. Add a formal license here if you plan to distribute or use it commercially.
